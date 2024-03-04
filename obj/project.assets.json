@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\sifis\\StringsConsoleApp\\StringsConsoleApp.csproj",
+      "projectUniqueName": "C:\\Users\\sifis\\ADTStrings\\ADTStrings\\StringsConsoleApp.csproj",
       "projectName": "StringsConsoleApp",
-      "projectPath": "C:\\Users\\sifis\\StringsConsoleApp\\StringsConsoleApp.csproj",
+      "projectPath": "C:\\Users\\sifis\\ADTStrings\\ADTStrings\\StringsConsoleApp.csproj",
       "packagesPath": "C:\\Users\\sifis\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\sifis\\StringsConsoleApp\\obj\\",
+      "outputPath": "C:\\Users\\sifis\\ADTStrings\\ADTStrings\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\sifis\\AppData\\Roaming\\NuGet\\NuGet.Config",
