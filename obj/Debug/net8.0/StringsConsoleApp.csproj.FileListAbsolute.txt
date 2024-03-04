@@ -1,0 +1,14 @@
+C:\Users\sifis\StringsConsoleApp\bin\Debug\net8.0\StringsConsoleApp.exe
+C:\Users\sifis\StringsConsoleApp\bin\Debug\net8.0\StringsConsoleApp.deps.json
+C:\Users\sifis\StringsConsoleApp\bin\Debug\net8.0\StringsConsoleApp.runtimeconfig.json
+C:\Users\sifis\StringsConsoleApp\bin\Debug\net8.0\StringsConsoleApp.dll
+C:\Users\sifis\StringsConsoleApp\bin\Debug\net8.0\StringsConsoleApp.pdb
+C:\Users\sifis\StringsConsoleApp\obj\Debug\net8.0\StringsConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sifis\StringsConsoleApp\obj\Debug\net8.0\StringsConsoleApp.AssemblyInfoInputs.cache
+C:\Users\sifis\StringsConsoleApp\obj\Debug\net8.0\StringsConsoleApp.AssemblyInfo.cs
+C:\Users\sifis\StringsConsoleApp\obj\Debug\net8.0\StringsConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\sifis\StringsConsoleApp\obj\Debug\net8.0\StringsConsoleApp.dll
+C:\Users\sifis\StringsConsoleApp\obj\Debug\net8.0\refint\StringsConsoleApp.dll
+C:\Users\sifis\StringsConsoleApp\obj\Debug\net8.0\StringsConsoleApp.pdb
+C:\Users\sifis\StringsConsoleApp\obj\Debug\net8.0\StringsConsoleApp.genruntimeconfig.cache
+C:\Users\sifis\StringsConsoleApp\obj\Debug\net8.0\ref\StringsConsoleApp.dll
